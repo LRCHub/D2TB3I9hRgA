@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "HEAVENLY JUMPSTYLE",
+  "base_artist": "TWXNY、Sxilwix、Innxcence",
+  "createdAt": "2026-03-19T07:28:49.743931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE (Slowed)",
+      "artist": "TWXNY, Sxilwix, Innxcence",
+      "has_synced": true,
+      "path": "select/01_HEAVENLY_JUMPSTYLE_(Slowed)_TWXNY,_Sxilwix,_Innxcence.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE (Tiktok Version)",
+      "artist": "TWXNY, Sxilwix, Innxcence",
+      "has_synced": true,
+      "path": "select/02_HEAVENLY_JUMPSTYLE_(Tiktok_Version)_TWXNY,_Sxilwix,_Innxcence.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE - Slowed",
+      "artist": "TWXNY",
+      "has_synced": true,
+      "path": "select/03_HEAVENLY_JUMPSTYLE_-_Slowed_TWXNY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE",
+      "artist": "TWXNY, Sxilwix & Innxcence",
+      "has_synced": true,
+      "path": "select/04_HEAVENLY_JUMPSTYLE_TWXNY,_Sxilwix_&_Innxcence.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE",
+      "artist": "TWXNY, Sxilwix, INNXCENCE",
+      "has_synced": true,
+      "path": "select/05_HEAVENLY_JUMPSTYLE_TWXNY,_Sxilwix,_INNXCENCE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE (Ultra Slowed)",
+      "artist": "TWXNY, Sxilwix, Innxcence",
+      "has_synced": true,
+      "path": "select/06_HEAVENLY_JUMPSTYLE_(Ultra_Slowed)_TWXNY,_Sxilwix,_Innxcence.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE (Slowed)",
+      "artist": "TWXNY, Sxilwix 및 Innxcence",
+      "has_synced": true,
+      "path": "select/07_HEAVENLY_JUMPSTYLE_(Slowed)_TWXNY,_Sxilwix_및_Innxcence.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE (Slowed)",
+      "artist": "TWXNY, Sxilwix and Innxcence",
+      "has_synced": true,
+      "path": "select/08_HEAVENLY_JUMPSTYLE_(Slowed)_TWXNY,_Sxilwix_and_Innxcence.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE (Ultra Slowed)",
+      "artist": "TWXNY",
+      "has_synced": true,
+      "path": "select/09_HEAVENLY_JUMPSTYLE_(Ultra_Slowed)_TWXNY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE - Slowed Version",
+      "artist": "TWXNY, Sxilwix, INNXCENCE",
+      "has_synced": true,
+      "path": "select/10_HEAVENLY_JUMPSTYLE_-_Slowed_Version_TWXNY,_Sxilwix,_INNXCENCE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE (Slowed)",
+      "artist": "TWXNY",
+      "has_synced": true,
+      "path": "select/11_HEAVENLY_JUMPSTYLE_(Slowed)_TWXNY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE",
+      "artist": "TWXNY",
+      "has_synced": true,
+      "path": "select/12_HEAVENLY_JUMPSTYLE_TWXNY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HEAVENLY JUMPSTYLE",
+      "artist": "TWXNY,Sxilwix,Innxcence",
+      "has_synced": true,
+      "path": "select/13_HEAVENLY_JUMPSTYLE_TWXNY,Sxilwix,Innxcence.lrc"
+    }
+  ]
+}
